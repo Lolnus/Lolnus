@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lolnus
-- 👀 I’m interested in gmaing and spending som qality time by the computer
-- 🌱 I’m currently learning to code at chalmer
+- 👀 I’m interested in gamaing and spending some qality time by the computer
+- 🌱 I’m currently learning to code at chalmers
 - 💞️ I’m looking to collaborate on enything that will help me learn shit
 - 📫 How to reach me i havent figured out yet
 
